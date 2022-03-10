@@ -26,5 +26,11 @@
             android:layout_width="match_parent"
             android:layout_height="130dp"
             android:text="TextView" />
+
+        <Button
+            android:id="@+id/MyButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Return" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
